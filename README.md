@@ -1,4 +1,4 @@
-# 🎧 Deploy Spotify Project
+# 🎧 Clone Spotify Project
 
 Este é um clone simplificado do Spotify feito com **React**, **Node.js** e **MongoDB**.
 
